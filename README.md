@@ -1,4 +1,4 @@
-Agenda de Contatos Institucionais
+
 Este projeto é uma aplicação web criada para substituir uma planilha de contatos complexa. A solução foi desenvolvida utilizando a plataforma low-code Budibase como interface de usuário (frontend) e o Supabase como banco de dados (backend), proporcionando um sistema seguro, eficiente e fácil de usar.
 
 O objetivo principal foi transformar uma lista de contatos estática e frágil em uma aplicação dinâmica com funcionalidades de busca, edição controlada e múltiplos níveis de acesso para usuários.
