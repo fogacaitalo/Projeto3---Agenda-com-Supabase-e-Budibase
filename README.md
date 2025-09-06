@@ -75,3 +75,14 @@ Para rodar este projeto, você precisará de uma conta no Supabase e uma no Budi
 2.  **Cadastrar Usuários:** Para que um usuário tenha uma permissão específica, seu e-mail e nível de acesso (`admin`, `editor` ou `leitor`) devem ser cadastrados manualmente na tabela **`usuarios`** no Supabase.
 3.  **Convidar Usuários:** No painel de gerenciamento do Budibase, convide os usuários (com a permissão **"Basic"**) para que eles possam acessar a aplicação.
 
+
+## 📸 Screenshots
+
+### Tela Principal (Listagem e Busca)
+![Tela Principal com Tabela de Contatos e Campo de Busca](principal.png)
+
+### Formulário de Edição
+![Formulário de Edição de Contato em Painel Lateral](editcontato.png)
+
+### Formulário de Adição
+![Formulário de Adição de Novo Contato](addcontato.png)
